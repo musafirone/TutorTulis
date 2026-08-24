@@ -1,0 +1,6 @@
+{
+  "name": "TutorTulis MusafirONE",
+  "description": "Platform bimbingan dan analisis esai siswa berbasis AI dengan evaluasi tata bahasa, alur paragraf, skor 1-100, dan perbandingan Before/After.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
